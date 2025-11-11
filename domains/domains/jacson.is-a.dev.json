@@ -1,0 +1,12 @@
+{
+  "description": "Jacson's personal portfolio website.",
+  "domain": "jacson.is-a.dev",
+  "subdomain": "jacson",
+  "owner": {
+    "repo": "https://github.com/Pruthivika3/portfolio_2",
+    "email": "jacsonsebastian219@gmail.com"
+  },
+  "record": {
+    "CNAME": "Pruthivika3.github.io"
+  }
+}
